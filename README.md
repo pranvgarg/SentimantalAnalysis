@@ -14,7 +14,7 @@ An analysis of the results can be found at: https://towardsdatascience.com/super
 
 Some visualization highlights are shown below:
 
-![Swarm plot of sentiment around candidates](https://github.com/pranvgarg/SentimantalAnalysis/blob/master/images/sent_swarm_2.png)
-![Polar plot of sentiment by time of day for each candidate](https://github.com/pranvgarg/SentimantalAnalysis/blob/master/images/sent_polar_candid.png?raw=true)
-![Top words about Joe Biden](https://github.com/pranvgarg/SentimantalAnalysis/blob/master/images/com_biden.png)
+![Swarm plot of sentiment around candidates](https://github.com/pranvgarg/SentimantalAnalysis/blob/main/images/sent_swarm_2.png)
+![Polar plot of sentiment by time of day for each candidate](https://github.com/pranvgarg/SentimantalAnalysis/blob/main/images/sent_polar_candid.png)
+![Top words about Joe Biden](https://github.com/pranvgarg/SentimantalAnalysis/blob/main/images/com_biden.png)
 ![](https://github.com/pranvgarg/SentimantalAnalysis/blob/main/images/sent_swarm.png)
